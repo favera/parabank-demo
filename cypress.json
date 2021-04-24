@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://parabank.parasoft.com/parabank",
+    "env": {
+        "username": "john",
+        "password": "demo"
+    },
+    "viewportWidth": 1440,
+    "viewportHeight": 900
+}

@@ -1,0 +1,27 @@
+{
+  "name": "parabank-demo",
+  "version": "1.0.0",
+  "description": "test project for demo cypress framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/favera/parabank-demo.git"
+  },
+  "keywords": [
+    "cypress",
+    "e2e",
+    "test"
+  ],
+  "author": "favera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/favera/parabank-demo/issues"
+  },
+  "homepage": "https://github.com/favera/parabank-demo#readme",
+  "dependencies": {
+    "cypress": "^7.1.0"
+  }
+}
